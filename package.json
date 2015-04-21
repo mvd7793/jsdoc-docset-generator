@@ -5,6 +5,7 @@
   "version": "0.0.3",
   "main": "lib/docset-generator",
   "dependencies": {
+    "deasync": "0.0.10",
     "extended-fs": "^0.3.3",
     "lodash-template-stream": "^1.0.0",
     "q": "^1.1.1",
